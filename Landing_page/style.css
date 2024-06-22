@@ -44,6 +44,7 @@ header{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    position: relative;
     top: 0;
 }
 .text-box{
